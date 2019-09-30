@@ -13,9 +13,13 @@
 None so far.
 ## Technologies Used
 HTML:I used html to bring forth the site and i also changed the fonts and added images.
+
 CSS:i used a custom css and a bootstrap file to edit and style the page.
+
 JAVASCRIPT:i used javascript to add functions and make the page responsive.
-JQUERY:i used a jquery file to guide and make my page more interactive
+
+JQUERY:i used a jquery file to guide and make my page more interactive.
+
 ## Support and contact details
 * contact me by my email rontheking45@gmail.com
 ### License
