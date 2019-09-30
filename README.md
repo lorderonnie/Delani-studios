@@ -4,12 +4,11 @@
 ## Description
 {This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-
+* access a laptop or a tablet.
+* access WI-FI or bundles 
+* enter git hub and clone the following 
+* access the file via atom or studio code
+* open the file via code . or atom .
 ## Known Bugs
 None so far.
 ## Technologies Used
