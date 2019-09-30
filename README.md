@@ -1,6 +1,6 @@
 # {Application Name}
 #### {Brief description of application}, {Date of current version}
-#### By **{List of contributors}**
+#### By **Ronald mwambia**
 ## Description
  This is a representation of the Delani studios which is more interractive and much better than the original. 
 ## Setup/Installation Requirements
