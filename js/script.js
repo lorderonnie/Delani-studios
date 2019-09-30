@@ -1,0 +1,27 @@
+$(document).ready(function(){
+    $(".image1").click(function(){
+        $(".pritt").toggle();
+        $(".image1").toggle();
+    });
+    $(".pritt").click(function(){
+        $(".image1").toggle();
+        $(".pritt").toggle();
+    });
+    $(".image2").click(function(){
+        $(".lift").toggle();
+        $(".image2").toggle();
+    });
+    $(".lift").click(function(){
+        $(".image2").toggle();
+        $(".lift").toggle();
+    });
+    $(".image3").click(function(){
+        $(".brawn").toggle();
+        $(".image3").toggle();
+    });
+    $(".brawn").click(function(){
+        $(".image3").toggle();
+        $(".brawn").toggle();
+    });
+});
+
