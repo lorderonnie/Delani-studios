@@ -6,7 +6,7 @@
 ## Setup/Installation Requirements
 * access a laptop or a tablet.
 * access WI-FI or bundles 
-* enter git hub and clone the following 
+* enter git hub and clone the following https://lorderonnie.github.io/Delani-studios/
 * access the file via atom or studio code
 * open the file via code . or atom .
 ## Known Bugs
