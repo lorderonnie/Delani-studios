@@ -1,0 +1,78 @@
+
+.up{
+    position: relative;
+    text-align: center;
+}
+.text{
+    top: 50%;
+    left: 50%;
+    color: white;
+    position: absolute;
+    font-size: 25px;
+    font-style: normal;
+    font-family: 'Playfair Display SC', serif;
+    transform: translate(-50%,-50%)
+}
+h1{
+    font-family: 'Playfair Display SC', serif;
+    font-size: 55px;
+}
+p{
+    font-family: 'Lobster Two', cursive;
+    font-size: 30px;
+}
+.photo1,.photo2,.photo3,.photo4,.photo5,.photo6,.photo7,.photo8{
+    margin: 10px;
+}
+.down{
+    position: absolute;
+    top: 10%;
+    left: 20%;
+    color: white;   
+}
+.twist{
+    background-color: transparent;
+    margin: 15px;
+    width: 320px;
+    color: white;
+}
+.turn{
+    background-color: transparent;
+    height: 230px;
+    width: 640px;
+    color: white;
+}
+.press{
+    color: white;
+    background-color: transparent;
+}
+.pro>p{
+    font-size: 15px;
+    margin: 5px;
+    font-family: 'Playfair Display SC', serif;
+}
+.pritt,.lift,.brawn{
+                display: none;   
+}
+.homie {
+    background-color: transparent;
+    color:black;
+    font-size: 20px;
+    font-family: 'Playfair Display SC', serif;
+    padding: 10px 15px;
+}
+.row:hover .middle{
+    opacity:  1;
+}
+.row:hover .photo1{
+    opacity: 0.3;
+}
+.middle{
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+}
