@@ -1,5 +1,5 @@
-# {Application Name}
-#### {Brief description of application}, {Date of current version}
+# THE DELANI STUDIOS
+#### A remake of the Delani studio site, 30th september 2019
 #### By **Ronald mwambia**
 ## Description
  This is a representation of the Delani studios which is more interractive and much better than the original. 
