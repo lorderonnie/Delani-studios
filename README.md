@@ -13,9 +13,12 @@
 ## Known Bugs
 {Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
 ## Technologies Used
-{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
+HTML:I used html to bring forth the site and i also changed the fonts and added images.
+CSS:i used a custom css and a bootstrap file to edit and style the page.
+JAVASCRIPT:i used javascript to add functions and make the page responsive.
+JQUERY:i used a jquery file to guide and make my page more interactive
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+* contact me by my email rontheking45@gmail.com
 ### License
 MIT licence
 Copyright (c) {2019} **{moringaschool and myself}**
